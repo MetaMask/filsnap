@@ -4,6 +4,12 @@
 ![](https://img.shields.io/badge/Node.js-%3E%3D12.x-orange.svg?style=flat-square)
 ![Discord](https://img.shields.io/discord/608204864593461248?color=blue&label=Discord&logo=discord)
 
+## Deprecated
+
+This repository has been deprecated and is no longer maintained. Please refer to https://github.com/filecoin-project/filsnap going forward.
+
+## Context
+
 Metamask Snap to enable Metamask users interaction with filecoin dapps.
 
 **For detailed documentation and integration instructions see [wiki](https://github.com/chainsafe/filsnap/wiki).**
